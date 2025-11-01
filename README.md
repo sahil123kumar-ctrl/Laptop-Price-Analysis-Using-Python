@@ -1,6 +1,5 @@
-<img width="1048" height="751" alt="image" src="https://github.com/user-attachments/assets/d949ce04-f60b-4374-ad1e-afcf0f966a46" /># Laptop-Price-Analysis-Using-Python
+# Laptop Price Analysis Using Python
 
-### Laptop Price Analysis Using Python
 #### Overview
 
 This project explores how various hardware and software features affect laptop prices using Python. It includes a comprehensive Exploratory Data Analysis (EDA) to identify market trends, pricing drivers, and customer preferences across brands and configurations.
