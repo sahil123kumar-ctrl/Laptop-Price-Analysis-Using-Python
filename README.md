@@ -31,7 +31,11 @@ This project explores how various hardware and software features affect laptop p
 
 #### Tools & Libraries
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+1.Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+2.Jupyter Notebook for analysis and visualization
+
+3.PowerPoint for reporting insights
 
 
 ####  Analysis Performed (Problem Statement):
@@ -130,6 +134,4 @@ RAM and CPU performance, GPU model (NVIDIA/Intel), Storage type (SSD > HDD), Dis
 
 
 
-Jupyter Notebook for analysis and visualization
 
-PowerPoint for reporting insights
